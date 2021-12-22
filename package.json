@@ -1,0 +1,21 @@
+{
+  "name": "demowebapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "canvas-txt": "^3.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jimp": "^0.16.1",
+    "node-cron": "^3.0.0",
+    "path": "^0.12.7"
+  }
+}
